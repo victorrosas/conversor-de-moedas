@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "conversorProject",
+    "slug": "conversorProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
